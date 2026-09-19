@@ -1,17 +1,41 @@
-# flutter_project
+# 🥗 Fitness & Diet Flutter App
 
-A new Flutter project.
+A Flutter UI project for a fitness and diet application. This project was built to practice Flutter and Dart by creating a clean and modern diet recommendation interface.
 
-## Getting Started
+## 📱 Project Overview
 
-This project is a starting point for a Flutter application.
+The application provides a fitness and diet-focused interface with food categories, diet recommendations, popular diet options, search, and custom UI components.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- 🍽️ Food category section
+- 🥗 Diet recommendations
+- ⭐ Popular diet section
+- 🔍 Search interface
+- 🎨 Custom cards and buttons
+- 🌈 Gradient UI elements
+- 🖼️ SVG icon integration
+- 📱 Responsive Flutter layout
+- 📊 Reusable data models for diet information
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- **Flutter**
+- **Dart**
+- **flutter_svg**
+- **VS Code**
+
+## 📂 Project Structure
+
+```text
+lib/
+├── main.dart
+├── models/
+│   ├── category_model.dart
+│   ├── diet_model.dart
+│   └── popular_model.dart
+└── pages/
+    └── home.dart
+
+assets/
+└── icons/
