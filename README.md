@@ -39,3 +39,13 @@ lib/
 
 assets/
 └── icons/
+
+## 📸 Screenshots
+
+### Home Screen
+
+![Home Screen](screenshots/home_screen.png)
+
+### Diet Screen
+
+![Diet Screen](screenshots/diet_screen.png)
